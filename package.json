@@ -1,0 +1,12 @@
+{
+  "name": "arc-tracker",
+  "version": "1.0.0",
+  "description": "Arc Testnet Activity Tracker",
+  "main": "api/wallet.js",
+  "scripts": {
+    "dev": "vercel dev"
+  },
+  "dependencies": {
+    "node-fetch": "^2.6.7"
+  }
+}
